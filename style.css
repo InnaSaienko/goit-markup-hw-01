@@ -1,0 +1,19 @@
+/*@font-face {*/
+/*    font-family: "JetBrains Sans";*/
+/*    src: url("fonts/JetBrainsSans-Regular.woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "JetBrains Mono";*/
+/*    src: url("fonts/JetBrainsMono-Regular.woff2");*/
+/*}*/
+
+:root {
+
+}
+
+body {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
